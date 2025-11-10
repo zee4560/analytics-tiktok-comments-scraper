@@ -1,0 +1,3 @@
+# One TikTok video URL per line. Short share links are supported and will be resolved.
+https://www.tiktok.com/@tiktok/video/7216801878759343365
+https://vm.tiktok.com/ZM2AbCdEf/
