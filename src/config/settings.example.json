@@ -1,0 +1,8 @@
+{
+  "comment_limit": 100,
+  "concurrency": 8,
+  "proxy": null,
+  "timeout_seconds": 25,
+  "output_dir": "./data",
+  "output_format": "json"
+}
